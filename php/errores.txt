@@ -1,0 +1,658 @@
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)
+Conexión exitosa a la base de datosConsulta SQL exitosaDatos obtenidos de la base de datos: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [nombre] => Juan
+            [apellido1] => Pérez
+            [apellido2] => Gómez
+            [direccion] => Calle Falsa 123
+            [telefono] => 555-1234
+            [dni] => 12345678A
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [nombre] => Ana
+            [apellido1] => López
+            [apellido2] => Martínez
+            [direccion] => Avenida Siempre Viva 45
+            [telefono] => 555-5678
+            [dni] => 23456789B
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [nombre] => Carlos
+            [apellido1] => García
+            [apellido2] => 
+            [direccion] => Calle Real 456
+            [telefono] => 555-9876
+            [dni] => 34567890C
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [nombre] => María
+            [apellido1] => Sánchez
+            [apellido2] => Rodríguez
+            [direccion] => Plaza Mayor 789
+            [telefono] => 555-1357
+            [dni] => 45678901D
+        )
+
+)

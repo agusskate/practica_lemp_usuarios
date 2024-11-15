@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/styleLista.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+
+<body class="body">
+    
+    <div class="contenedorGeneral">
+        <div class="titulo">
+            <div><h1>Lista de usuarios</h1></div>
+            <div class="botonAnhadir"><button>+</button></div>
+            <div class="botonSalir"><button>x</button></div>
+        </div>
+
+        <div class="contenedorUsuarios">
+
+
+        </div>
+    </div>
+
+    <div class="anadirFormulario">
+        <h3>Añadir Nuevo Usuario</h3>
+        <label>Nombre: <input type="text" id="nuevoNombre" required></label><br>
+        <label>Apellido 1: <input type="text" id="nuevoApellido1" required></label><br>
+        <label>Apellido 2: <input type="text" id="nuevoApellido2" required></label><br>
+        <label>Dirección: <input type="text" id="nuevaDireccion" required></label><br>
+        <label>Teléfono: <input type="text" id="nuevoTelefono" required></label><br>
+        <label>DNI: <input type="text" id="nuevoDNI" required></label><br>
+        <label>Imagen de Perfil: <input type="file" id="nuevoFotoPerfil" accept="image/*"></label><br>
+        <div class="botones">
+            <button id="guardarNuevo">Guardar</button>
+            <button id="cancelarNuevo">Cancelar</button>
+        </div>
+    </div>
+
+    <script src="../js/main.js"></script>
+
+</body>
+
+</html>

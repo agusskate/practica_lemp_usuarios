@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+.body{
+    background-image: url("../multimedia/fondo_login.png");
+}
+
+.contenedorGeneral{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.contenedorLogin{
+    height: 80vh;
+    width: 30%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px 10px rgba(0, 0, 0, 0.3);
+}
+.contenedorImagen{
+    width: 100%;
+    overflow: hidden;
+}
+.contenedorImagen img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+.contenedorCredenciales{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.contenedorCredenciales .titulo{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+
+.credenciales {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12px; 
+}
+
+.credenciales .nombre, .contra {
+    background-color: rgb(223, 128, 226);
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.credenciales .nombre input, .contra input {
+    width: 100%;
+    background-color: #e38ea2;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none; 
+    box-sizing: border-box;
+}
+
+.credenciales .nombre input::placeholder, .contra input::placeholder {
+    color: #dcdcdc; 
+    opacity: 0.8; 
+}
+.botonLogin {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.botonLogin button {
+    width: 100%;
+    background-color: #994b85;
+    border: none;
+    color: #f3f4f6;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.botonLogin button:hover {
+    background-color: #c6c914;
+    transform: translateY(-2px); /*Efecto de levantamiento al hacer hover*/
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3);
+}

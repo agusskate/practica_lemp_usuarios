@@ -1,0 +1,6 @@
+despluegue 8/11
+
+login usuarios autorizados:
+1. pueden ver una lista de clientes
+2. boton/opcion para que el ususario pueda añadir un nuevo cliente
+3. crear modificar y eliminar clientes
